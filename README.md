@@ -1,6 +1,6 @@
 # AFC-Lite 7V Buck Converter Daughterboard
 
-## Purchasing a XXX
+## Purchasing a AFC-Lite 7V Buck Converter Daughterboard
 ### Buy From Me
 #### United States
 - [Isik's Tech](https://store.isiks.tech/products/afc-lite-servo-buck-converter-daughterboard)
