@@ -1,43 +1,9 @@
-# PCB-GitHub-Template
-Start with a picture, followed by a brief description.
-
-### Features
-
-Only add if there are features worth explaining/listing in a table.
+# AFC-Lite 7V Buck Converter Daughterboard
 
 ## Purchasing a XXX
 ### Buy From Me
 #### United States
-- [Isik's Tech](.)
-
-### Resellers
-### European Union
-- [Lab4450 (Portugal)](.)
-- [Alchemy3D (Germany)](.)
-
-## Instructions
-
-...
-
-## Versions
-
-Only add if there are multiple MAJOR versions, like KUSBA V1 and V2.
-
-
-
-## Folders
-
-Delete this.
-
-| Folder | For |
-| ------ | --- |
-| CAD | CAD models of the PCB and mounts |
-| Docs | Guides, extra docs |
-| EasyEDA-Source | Source .json files, in version folders |
-| Firmware | Klipper .cfg files, if multiple options available, in sub folders |
-| Gerbers | Gerbers in `Gerbers.zip`, BOM in `BOM.csv`, CPL in `PNP.csv`, in version folders under `Old-Versions` except latest which is in `Latest-Tested-Version`, add a `README.md` with the changelog |
-| Images | Images for docs |
-| Mounts | Mounts for the PCB, add a `README.md` |
+- [Isik's Tech](https://store.isiks.tech/products/afc-lite-servo-buck-converter-daughterboard)
 
 ## YouTube
 
